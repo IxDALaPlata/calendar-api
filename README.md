@@ -1,5 +1,7 @@
 # calendar-api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/meetupjs-ar/calendar-api.svg)](https://greenkeeper.io/)
+
 Microservicio que devuelve los eventos de tecnología en Buenos Aires
 
 [calendar-api](http://calendar-api.now.sh/)
