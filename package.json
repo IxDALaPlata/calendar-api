@@ -1,5 +1,5 @@
 {
-    "name": "calendar-api",
+    "name": "ux-calendar-api",
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
@@ -8,6 +8,7 @@
         "start": "micro"
     },
     "author": "durancristhian@gmail.com",
+    "contributors": ["estebanjcoria@gmail.com"],
     "license": "MIT",
     "dependencies": {
         "color-hash": "^1.0.3",

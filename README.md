@@ -1,12 +1,12 @@
-# calendar-api
+# ux-calendar-api
 
-Microservicio que devuelve los eventos de tecnología en Buenos Aires
+Microservicio que devuelve los eventos de UX en Buenos Aires y Alrededores (100km a la redonda)
 
-[calendar-api](http://calendar-api.now.sh/)
+Este en un Fork del proyecto [calendar-api](https://github.com/meetupjs-ar/calendar-api) de la gente de ## MeetupJS
 
 ## Como funciona
 
-* Utiliza [google-spreadsheet-api](https://github.com/meetupjs-ar/google-spreadsheet-api), [meetup-api](https://github.com/meetupjs-ar/meetup-api) y [eventbrite-api](https://github.com/meetupjs-ar/eventbrite-api) para obtener eventos de diversas fuentes
+* [meetup-api](https://github.com/meetupjs-ar/meetup-api) y [eventbrite-api](https://github.com/meetupjs-ar/eventbrite-api) para obtener eventos de diversas fuentes
 * Descarta eventos de días anteriores
 * Agrupa por mes y los ordena por fecha
 
